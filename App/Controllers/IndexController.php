@@ -16,8 +16,5 @@ class IndexController extends Action
     $this->view->cars = array("Mustang","Ferrari");
     $this->render("contact");
   }
-
-
-
 }
  ?>
